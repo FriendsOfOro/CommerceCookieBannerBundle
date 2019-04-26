@@ -1,0 +1,8 @@
+layout:
+    actions:
+        - '@setBlockTheme':
+            themes: 'OroCommerceCookieBannerBundle:layouts:blank/imports/oro_cookie_banner/oro_cookie_banner.html.twig'
+        - '@add':
+            id: __banner_content
+            parentId: __root
+            blockType: container

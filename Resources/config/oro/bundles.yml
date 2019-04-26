@@ -1,0 +1,2 @@
+bundles:
+    - { name: Oro\Bundle\CommerceCookieBannerBundle\OroCommerceCookieBannerBundle, priority: 1000 }

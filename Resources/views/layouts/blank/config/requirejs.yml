@@ -1,0 +1,3 @@
+config:
+    paths:
+        'orocommercecookiebanner/js/cookie-banner-view': 'bundles/orocommercecookiebanner/js/cookie-banner-view.js'
