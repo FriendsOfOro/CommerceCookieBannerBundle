@@ -11,5 +11,8 @@
     "require": {
         "oro/commerce": "^3.1"
     },
+    "autoload": {
+        "psr-4": { "Oro\\OroCommerceCookieBannerBundle\\": "./src/" }
+    },
     "minimum-stability": "stable"
 }
